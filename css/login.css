@@ -3,38 +3,43 @@
 	padding: 0px;
 }
 body{
-	background: url("../IMAGENS/fundo2.jpg");
-	background-position: 50% 90%;
+    background: url("../img/img3.jpg") no-repeat bottom center scroll;
+    background-position: 5% 3%;
 	color: white;
-	font-family: arial;
-	background-repeat: no-repeat;
+    font-family: arial;
+    
+    background-position: 5% 3%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
 }
 input{
-	display: block;
-	height: 55px;
-	width: 400px;
-	margin: 10px;
-	border-radius: 30px;
-	border:1.2px solid white;
-	font-size: 16pt;
-	padding: 10px 20px;
-	background-color: rgba(255,255,255,0.01);
-	color: white;
-	outline: none;
+    width: 400px;
+    margin: 10px;
+    border: 1.2px solid white;
+    padding: 10px 20px;
+    background-color: rgba(255,255,255,0.01);
+    color: white;
 }
 
-div#corpo-form{
-	/*background-color: red;*/
-	width: 420px;
-	margin: 130px auto 0px auto;
+#corpo-form{
+    /*background-color: red;*/
+    width: 420;
+    height: 330px;
+    margin: 150px auto 0px auto;
+    
+    border: 2px solid #00fff2;
+    background-color: #0000009a;
 }
-div#corpo-form-Cad
+#corpo-form-Cad
 {
 	/*background-color: red;*/
 	width: 420px;
 	margin: 80px auto 0px auto;
 }
-div#corpo-form h1, div#corpo-form-Cad h1{
+#corpo-form h1, #corpo-form-Cad h1{
 	text-align: center;
 	padding: 20px;
 }

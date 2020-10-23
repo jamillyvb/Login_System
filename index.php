@@ -8,8 +8,8 @@ $u = new Usuario();
 	<meta charset="utf-8"/>
     <title>Projeto Login</title>
     
-    <link rel="stylesheet" href="/css/login.css">
-    <link rel="stylesheet" href="/connect/connect.php">
+    <link rel="stylesheet" href="./css/login.css">
+    <link rel="stylesheet" href="./connect/connect.php">
 
 	<meta name="viewport" content="width=device-width">
 </head>
