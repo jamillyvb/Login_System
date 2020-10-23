@@ -1,0 +1,11 @@
+/*create database projeto_login;
+use projeto_login;
+
+create table usuarios(
+id_usuario int(11) AUTO_INCREMENT primary key,
+nome varchar(30) NOT NULL,
+email varchar(30) NOT NULL,
+senha varchar(32)
+);
+
+SELECT * FROM projeto_login.usuarios;*/
