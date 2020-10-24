@@ -8,4 +8,4 @@ email varchar(30) NOT NULL,
 senha varchar(32)
 );
 
-SELECT * FROM projeto_login.usuarios;*/
+SELECT * FROM nomedobanco.usuarios;*/
